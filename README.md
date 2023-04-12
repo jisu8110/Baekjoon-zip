@@ -9,6 +9,7 @@
 |1157. 단어 공부|[링크](./%EB%B0%B1%EC%A4%80/Bronze/1157.%E2%80%85%EB%8B%A8%EC%96%B4%E2%80%85%EA%B3%B5%EB%B6%80/README.md)|
 |18108. 1998년생인 내가 태국에서는 2541년생？！|[링크](./%EB%B0%B1%EC%A4%80/Bronze/18108.%E2%80%851998%EB%85%84%EC%83%9D%EC%9D%B8%E2%80%85%EB%82%B4%EA%B0%80%E2%80%85%ED%83%9C%EA%B5%AD%EC%97%90%EC%84%9C%EB%8A%94%E2%80%852541%EB%85%84%EC%83%9D%EF%BC%9F%EF%BC%81/README.md)|
 |2557. Hello World|[링크](./%EB%B0%B1%EC%A4%80/Bronze/2557.%E2%80%85Hello%E2%80%85World/Hello%E2%80%85World.py)|
+|4344. 평균은 넘겠지|[링크](./%EB%B0%B1%EC%A4%80/Bronze/4344.%E2%80%85%ED%8F%89%EA%B7%A0%EC%9D%80%E2%80%85%EB%84%98%EA%B2%A0%EC%A7%80/README.md)|
 ### 🚀 Silver
 | 문제번호 | 링크 |
 | ----- | ----- |
